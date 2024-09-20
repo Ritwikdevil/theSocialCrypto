@@ -6,7 +6,7 @@
 
 **Elevating Crypto Info on a Twitter Replica Platform**
 
-![Logo](https://drive.google.com/file/d/1YSDGVVy7B--ODYbhFwHaJwo6SqWcy5jm/view?usp=sharing)
+![Logo](https://drive.google.com/file/d/1YSDGVVy7B--ODYbhFwHaJwo6SqWcy5jm/view)
 
 ### Tagline: 
 **Cut Through the Noise, Unleash Your Crypto Focus**
