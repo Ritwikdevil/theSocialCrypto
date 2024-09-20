@@ -2,10 +2,6 @@
 
 **Elevating Crypto Info on a Twitter Replica Platform**
 
-![Logo](# The Social Crypto
-
-**Elevating Crypto Info on a Twitter Replica Platform**
-
 <img src="https://drive.google.com/uc?export=view&id=1YSDGVVy7B--ODYbhFwHaJwo6SqWcy5jm" alt="Logo" width="200" style="border-radius: 50%;"/>
 
 ### Tagline: 
