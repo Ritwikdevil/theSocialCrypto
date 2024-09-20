@@ -6,13 +6,7 @@
 
 **Elevating Crypto Info on a Twitter Replica Platform**
 
-<img src="https://drive.google.com/uc?export=view&id=1YSDGVVy7B--ODYbhFwHaJwo6SqWcy5jm" alt="Logo"     width: 51px;
-    height: 52px;
-    border-radius: 50%;
-    vertical-align: middle;
-    margin-right: 10px;
-    object-fit: cover;/>
-
+<img src="https://drive.google.com/uc?export=view&id=1YSDGVVy7B--ODYbhFwHaJwo6SqWcy5jm" alt="Logo" width="200" style="border-radius: 50%;"/>
 
 ### Tagline: 
 **Cut Through the Noise, Unleash Your Crypto Focus**
